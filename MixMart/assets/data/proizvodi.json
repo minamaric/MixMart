@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "naziv": "Knjige",
+        "cena": {
+            "cenaSaSajta": "0 RSD",
+            "staraCena": "0 RSD"
+        }
+    },
+    {
+        "id": 2,
+        "naziv": "Šolje",
+        "cena": {
+            "cenaSaSajta": "0 RSD",
+            "staraCena": "0 RSD"
+        }
+    },
+    {
+        "id": 3,
+        "naziv": "Sveske",
+        "cena": {
+            "cenaSaSajta": "0 RSD",
+            "staraCena": "0 RSD"
+        }
+    },
+    {
+        "id": 4,
+        "naziv": "Pernice",
+        "cena": {
+            "cenaSaSajta": "0 RSD",
+            "staraCena": "0 RSD"
+        }
+    },
+    {
+        "id": 5,
+        "naziv": "Novčanici",
+        "cena": {
+            "cenaSaSajta": "0 RSD",
+            "staraCena": "0 RSD"
+        }
+    },
+    {
+        "id": 6,
+        "naziv": "Pokloni",
+        "cena": {
+            "cenaSaSajta": "0 RSD",
+            "staraCena": "0 RSD"
+        }
+    },
+    {
+        "id": 7,
+        "naziv": "Prenosive šolje",
+        "cena": {
+            "cenaSaSajta": "0 RSD",
+            "staraCena": "0 RSD"
+        }
+    }
+]

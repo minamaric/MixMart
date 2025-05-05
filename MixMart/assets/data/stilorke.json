@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "naziv": "Pernica TODAY",
+        "cena": {
+            "cenaSaSajta": "800 RSD",
+            "staraCena": "0 RSD"
+        },
+        "opis": "Futrola za olovke atraktivnog dizajna izrađena od fine mekane plastike. Dimenzije futrole su 55 x 195 x 55mm.",
+        "src": "assets/img/stilorke/stilorka1.png",
+        "kategorija": "Pernice"
+    },
+    {
+        "id": 2,
+        "naziv": "Pernica STARS",
+        "cena": {
+            "cenaSaSajta": "1060 RSD",
+            "staraCena": "0 RSD"
+        },
+        "opis": "Transparentna futrola za olovke atraktivnog dizajna izrađena od fine mekane plastike. Sadrži rajsfešlus. Dimenzije futrole su 55 x 195 x 55mm.",
+        "src": "assets/img/stilorke/stilorka2.png",
+        "kategorija": "Pernice"
+    },
+    {
+        "id": 3,
+        "naziv": "Pernica CUTE! Aqua",
+        "cena": {
+            "cenaSaSajta": "1060 RSD",
+            "staraCena": "0 RSD"
+        },
+        "opis": "Kompaktna silikonska futrola za olovke različitih boja sa rajsfešlusom. Futrola se otvorena može u potpunosti ispraviti i položiti na sto. Podržava do 10 olovaka, lenjira ili ostalih sitnica. Dimenzije 50 x 200 x 30mm.",
+        "src": "assets/img/stilorke/stilorka3.png",
+        "kategorija": "Pernice"
+    },
+    {
+        "id": 4,
+        "naziv": "Pernica CUTE! Violet",
+        "cena": {
+            "cenaSaSajta": "1060 RSD",
+            "staraCena": "0 RSD"
+        },
+        "opis": "Kompaktna silikonska futrola za olovke različitih boja sa rajsfešlusom. Futrola se otvorena može u potpunosti ispraviti i položiti na sto. Podržava do 10 olovaka, lenjira ili ostalih sitnica. Dimenzije 50 x 200 x 30mm.",
+        "src": "assets/img/stilorke/stilorka4.png",
+        "kategorija": "Pernice"
+    },
+    {
+        "id": 5,
+        "naziv": "Pernica BLACKFIT8 - ZELENA",
+        "cena": {
+            "cenaSaSajta": "830 RSD",
+            "staraCena": "0 RSD"
+        },
+        "opis": "Prazna pernica u obliku nesesera sa tri pregrade. Pernica je napravljena od poliestera i sadrži tri prostrane pregrade i jak rajsfešlus sa ukrasnim priveskom. Odličan izbor za različit dodatni pribor poput makaza, lepka, korektora...",
+        "src": "assets/img/stilorke/stilorka5.png",
+        "kategorija": "Pernice"
+    },
+    {
+        "id": 6,
+        "naziv": "Pernica BLACKFIT8 - PLAVA",
+        "cena": {
+            "cenaSaSajta": "830 RSD",
+            "staraCena": "0 RSD"
+        },
+        "opis": "Prazna pernica u obliku nesesera sa tri pregrade. Pernica je napravljena od poliestera i sadrži tri prostrane pregrade i jak rajsfešlus sa ukrasnim priveskom. Odličan izbor za različit dodatni pribor poput makaza, lepka, korektora...",
+        "src": "assets/img/stilorke/stilorka6.png",
+        "kategorija": "Pernice"
+    },
+    {
+        "id": 7,
+        "naziv": "Četvrtasta pernica WEDNESDAY UNIFORM",
+        "cena": {
+            "cenaSaSajta": "790 RSD",
+            "staraCena": "0 RSD"
+        },
+        "opis": "Pernica dekorisana detaljima popularne serije Wednesday. Poseduje jednu pregradu koja se zatvara pomoću kvalitetnog rajsferšlusa. Dimenzije 21 x 8 x 5,5cm.",
+        "src": "assets/img/stilorke/stilorka7.png",
+        "kategorija": "Pernice"
+    },
+    {
+        "id": 8,
+        "naziv": "Pernica sa tri pregrade SUPERUP",
+        "cena": {
+            "cenaSaSajta": "970 RSD",
+            "staraCena": "0 RSD"
+        },
+        "opis": "Pernica prazna sa tri pregrade SUPERUP. Dimenzije 22 x 11 x 5 cm",
+        "src": "assets/img/stilorke/stilorka8.png",
+        "kategorija": "Pernice"
+    }
+]

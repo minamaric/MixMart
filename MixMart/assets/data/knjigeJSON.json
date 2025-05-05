@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "naziv": "TAJNE USPEHA I SREĆE",
+        "cena": {
+            "cenaSaSajta": "769 RSD",
+            "staraCena": "1099 RSD"
+        },
+        "opis": "Predivan dnevnik, intimno svedočanstvo Mandinovih najdubljih misli i osećanja i doživljaja iz njegovog svakodnevnog života. Bilo da piše dok sedi u kući na svojoj farmi u Nju Hempširu za vreme snežne oluje, ili u sobi hotela koja može da se nalazi bilo gde u svetu, brine o bolesnom prijatelju, juri da stigne na avion, ili sadi povrće i cveće u svojoj baštii, Mandino pretvara svoje tajne uspeha u način života. Čitaoce će oduševiti činjenica da je tako uspešan i uticajan autor čovek poput svih nas. I sam prolazi kroz različite prijatne i neprijatne situacije, lične drame, bolesti, ali uspeva da živi i da se ponaša po svim principima o kojima godinama piše.",
+        "src": "assets/img/knjige/knjiga1.png",
+        "proizvodID": 1
+    },
+    {
+        "id": 2,
+        "naziv": "MEMOARI JEDNE GEJŠE TP",
+        "cena": {
+            "cenaSaSajta": "1259 RSD",
+            "staraCena": "1799 RSD"
+        },
+        "opis": "Glavna junakinja, Nita Sajuri, osvrće se na svoj životni put, iznenađujuće neposredno pripovedajući priču o jednoj gejši. Ta priča počinje u jednom siromašnom ribarskom selu, 1929. godine, kada je devetogodišnja devojčica neobičnih sivoplavih očiju odvedena od kuće i kao robinja prodata jednoj poznatoj kući gejši. Dok Sajuri s vremenom postaje gejša − uči kako da pleše, nosi kimono, kako da se šminka i sređuje kosu, pravilno sipa sake − suočava se s ljubomornom rivalkom i teškoćama života u zemlji kojoj preti dugotrajan rat. U Memoarima jedne gejše čitalac upoznaje svet u kom je najvažnija upravo njegova predstava, gde se devojačka čednost prodaje onome ko ponudi najviše novca, a žene se obučavaju kako da razonode najmoćnije muškarce. To je svet u kom je ljubav odbačena kao iluzija.",
+        "src": "assets/img/knjige/knjiga2.png",
+        "proizvodID": 1
+    },
+    {
+        "id": 3,
+        "naziv": "BELI  <br/> KIMONO",
+        "cena": {
+            "cenaSaSajta": "769 RSD",
+            "staraCena": "1099 RSD"
+        },
+        "opis": "Prepuna emocija, ovo je priča o dve žene: jedna je rastrzana između svoje kulture i svog srca, a druga odlazi na putovanje kako bi saznala šta zaista znači dom. Japan, 1957. godine. Ugovoreni brak doneće porodici mlade Naoko dobar položaj u društvu, ali ona se zaljubila u američkog mornara: ako se uda za njega, naneće veliku sramotu čitavoj porodici. Sjedinjene Američke Države, danas. Dok se brine o ocu na samrti, Toni pronalazi pismo sa neverovatnim otkrićem o prošlosti njene porodice na drugom kraju sveta.",
+        "src": "assets/img/knjige/knjiga3.png",
+        "proizvodID": 1
+    },
+    {
+        "id": 4,
+        "naziv": "SLUŠAJ KAKO KIŠA PADA",
+        "cena": {
+            "cenaSaSajta": "669 RSD",
+            "staraCena": "999 RSD"
+        },
+        "opis": "Grmljavina koja se približava trese prozorska stakla. Kao da predoseća dolazak oluje, crna mačka ne prestaje da mjauče. Karmen otvara prozor i pušta mačku da uđe u stari porodični kafić u Marseljetu, gradiću blizu granice Francuske i Španije. Mesto je neuobičajeno puno. Prošle su godine otkako je Karmen videla toliko lica i čula toliko glasova koji se prepliću, kao u pesmi. Ta pesma podseća je na kišu koja pada i miris sumpora u vazduhu. Ta pesma vraća je kroz godine. Svako od tih ljudi dotakao je njen život, ostavivši svoj trag: neko ožiljak, neko osmeh. Tu su Rita i Leonor, njene starije sestre, sa kojima deli stigmu izgnanstva, ali odbija da ide njihovim putem, jer posle tolikih nevolja želi da preuzme sudbinu u svoje ruke. Tu je njena sestričina Kali, koja ju je uvek dočekivala bez pitanja, uz zagrljaj. Tu je Eskuto, njen tihi anđeo čuvar.",
+        "src": "assets/img/knjige/knjiga4.png",
+        "proizvodID": 1
+    },
+    {
+        "id": 5,
+        "naziv": "KĆERKA <br/> RENESANSE",
+        "cena": {
+            "cenaSaSajta": "839 RSD",
+            "staraCena": "1199 RSD"
+        },
+        "opis": "Firenca u šesnaestom veku je grad koji sija od bogatstva i umetničkog nadahnuća, ali i mesto burnih političkih intriga. Ostavši bez roditelja, mlada Beatriče se odvažila da ode u grad kako bi prodavala maslinovo ulje svoje porodice i na taj način zaradila za život, ali i da bi po gradskim ulicama i skloništima tragala za nestalom majkom. Nakon što bosa stigne do gradskih zidina, uspeva da dobije dozvolu da prođe kroz kapije grada da bi prodavala ulje umetnicima – Mikelanđelu, Leonardu da Vinčiju, Botičeliju – koji pokušavaju da Firentinskoj republici donesu slavu i ugled. Usamljena ali ponosna, Beatriče traga za majkom, ali i u tajnosti crta po kamenim zidinama Firence da bi izrazila svoj bol. Pronalazi prijatelja u nadmenom Mikelanđelu, koji u tom trenutku pokušava da izradi skulpturu Davida, a zbližava se i sa suprugom trgovca tkaninama, čiji je portret naslikao već ostareli Leonardo da Vinči.",
+        "src": "assets/img/knjige/knjiga5.png",
+        "proizvodID": 1
+    }
+]

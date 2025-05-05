@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "naziv": "Novčanik LAST MOCCA",
+        "cena": {
+            "cenaSaSajta": "2090 RSD",
+            "staraCena": "0 RSD"
+        },
+        "opis": "Damski novčanik sa deset pregrada za kartice, jednim džepom, jednom pregradom za papirni novac. Novčanik sadrži i jednu pregradu za metalni novac. Dimenzije 14x10x2cm. Dezen kožni. Boja mocca nude.",
+        "src": "assets/img/ostalo/novcanik1.png",
+        "kategorija": "Novčanici"
+    },
+    {
+        "id": 2,
+        "naziv": "Novčanik LAST BLACK",
+        "cena": {
+            "cenaSaSajta": "2090 RSD",
+            "staraCena": "0 RSD"
+        },
+        "opis": "Damski novčanik sa deset pregrada za kartice, jednim džepom, jednom pregradom za papirni novac. Novčanik sadrži i jednu pregradu za metalni novac. Dimenzije 14x10x2cm. Dezen kožni. Boja crna.",
+        "src": "assets/img/ostalo/novcanik2.png",
+        "kategorija": "Novčanici"
+    }
+]

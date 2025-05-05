@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "naziv": "Sveska A4 sa spiralom na kvadratiće",
+        "cena": {
+            "cenaSaSajta": "450 RSD",
+            "staraCena": ""
+        },
+        "opis": "Sveska A4 formata u spiralnom povezu sa 80 listova na kvadratiće koji su napravljeni od 70g papira.",
+        "src": "assets/img/sveske/sveska4.png",
+        "kategorija": "Sveske"
+    },
+    {
+        "id": 2,
+        "naziv": "Sveska A5 na kvadratiće KRAFT",
+        "cena": {
+            "cenaSaSajta": "160 RSD",
+            "staraCena": ""
+        },
+        "opis": "Sveska A5 formata sa 60 listova na kvadratiće. Sveska je napravljena od kvalitetnog 70g papira.",
+        "src": "assets/img/sveske/sveska5.png",
+        "kategorija": "Sveske"
+    },
+    {
+        "id": 3,
+        "naziv": "Sveska A5 na kvadratiće",
+        "cena": {
+            "cenaSaSajta": "140 RSD",
+            "staraCena": ""
+        },
+        "opis": "Sveska sa 60 listova na kvadratiće. Prilikom poručivanja naglasiti koji motiv sveske želite. Dimenzije 20,8x16,5cm.",
+        "src": "assets/img/sveske/sveska6.png",
+        "kategorija": "Sveske"
+    },
+    {
+        "id": 4,
+        "naziv": "SVESKA A5 KARO SPACE TRAVELER",
+        "cena": {
+            "cenaSaSajta": "105 RSD",
+            "staraCena": ""
+        },
+        "opis": "SVESKA A5 60L KARO UV LAK",
+        "src": "assets/img/sveske/sveska7.png",
+        "kategorija": "Sveske"
+    },
+    {
+        "id": 5,
+        "naziv": "SVESKA A5 LATAJN SPACE TRAVELER",
+        "cena": {
+            "cenaSaSajta": "105 RSD",
+            "staraCena": ""
+        },
+        "opis": "SVESKA A5 60L KARO UV LAK",
+        "src": "assets/img/sveske/sveska8.png",
+        "kategorija": "Sveske"
+    },
+    {
+        "id": 6,
+        "naziv": "Sveska A4 LIKE Premium dikto 52l", 
+        "cena": {
+            "cenaSaSajta": "199 RSD",
+            "staraCena": ""
+        },
+        "opis": "KORICE: 300g/m2 - ŠTAMPA: 4/0 + mat plastifikacija + gliter - PREDLIST / ZADNJI LIST: 1/0. Zaobljene ivice",
+        "src": "assets/img/sveske/sveska9.png",
+        "kategorija": "Sveske"
+    },
+    {
+        "id": 7,
+        "naziv": "Sveska A6 SPIRAL", 
+        "cena": {
+            "cenaSaSajta": "450 RSD",
+            "staraCena": ""
+        },
+        "opis": "Sveska A6 formata u spiralnom povezu sa 80 listova na kvadratiće. Napravljena od kvalitetnog 70g papira.",
+        "src": "assets/img/sveske/sveska10.png",
+        "kategorija": "Sveske"
+    },
+    {
+        "id": 8,
+        "naziv": "Sveska A6 SPIRAL", 
+        "cena": {
+            "cenaSaSajta": "450 RSD",
+            "staraCena": ""
+        },
+        "opis": "Sveska A6 formata u spiralnom povezu sa 80 listova na kvadratiće. Napravljena od kvalitetnog 70g papira.",
+        "src": "assets/img/sveske/sveska11.png",
+        "kategorija": "Sveske"
+    },
+    {
+        "id": 9,
+        "naziv": "Sveska SPIRAL", 
+        "cena": {
+            "cenaSaSajta": "500 RSD",
+            "staraCena": ""
+        },
+        "opis": "Sveska A6 formata u spiralnom povezu sa listovima na kvadratiće. Sveska je napravljena od kvalitetnog 70g papira.", 
+        "src": "assets/img/sveske/sveska1.png",
+        "kategorija": "Sveske"
+    },
+    {
+        "id": 10,
+        "naziv": "Sveska MAP SPIRAL", 
+        "cena": {
+            "cenaSaSajta": "500 RSD",
+            "staraCena": ""
+        },
+        "opis": "Sveska A6 formata u spiralnom povezu sa listovima na kvadratiće. Sveska je napravljena od kvalitetnog 70g papira.",
+        "src": "assets/img/sveske/sveska2.png",
+        "kategorija": "Sveske"
+    },
+    {
+        "id": 11,
+        "naziv": "Sveska Panda SPIRAL", 
+        "cena": {
+            "cenaSaSajta": "500 RSD",
+            "staraCena": ""
+        },
+        "opis": "Sveska A6 formata u spiralnom povezu sa listovima na kvadratiće. Sveska je napravljena od kvalitetnog 70g papira.",
+        "src": "assets/img/sveske/sveska3.png",
+        "kategorija": "Sveske"
+    }
+]

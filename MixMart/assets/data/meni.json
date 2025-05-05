@@ -1,0 +1,14 @@
+[
+    {
+        "href": "index.html",
+        "text": "Početna"
+    },
+    {
+        "href": "kupovina.html",
+        "text": "Kupovina"
+    },
+    {
+        "href": "autor.html",
+        "text": "Autor"
+    }
+]

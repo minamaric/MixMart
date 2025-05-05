@@ -1,0 +1,192 @@
+@media screen and (max-width: 1600px) {
+    #section2 {
+        height: 1000px;
+    }
+}
+@media screen and (max-width: 1400px) {
+    footer {
+        height: 400px;
+    }
+    #section5 {
+        top: 3700px;
+    }
+    #futer {
+        top: 3700px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    #section1 {
+        height: 600px;
+    } 
+    #section2 .knjige a {
+        font-size: 14px;
+    }
+    #section2 .card2::before {
+        content: none;
+    }
+    #section2 img {
+        padding: 5px;
+    }
+    #section3 {
+        height: 1000px;
+    }
+    #taster {
+        width: 30%;
+        right: 100px;
+    }
+    #mejl {
+        width: 70%;
+        position: relative;
+        right: 100px;
+    }
+    footer {
+        height: 800px;
+    }
+    #futer {
+        height: auto;
+        top: 6500px;
+    }
+    #section5 {
+        top: 6500px;
+    }
+    #section5 .form-group {
+        width: 100%;
+        padding: 0px 100px;
+    }
+}
+@media screen and (max-width: 1020px) {
+    #section2 {
+        height: 1400px;
+    }
+    #autor {
+        height: 1200px;
+    }
+    #tekst, #biografija {
+        border: none;
+        width: 80%;
+        margin-left: 70px;
+    }
+    #slika {
+        width: 60%;
+        margin-left: 140px;
+    }
+    #futer {
+        height: auto;
+        top: 6700px;
+    }
+    #section5 {
+        height: 520px;
+        top: 6700px;
+    }
+    #section5 .form-group {
+        width: 100%;
+        padding: 0px 50px;
+    }
+}
+@media screen and (max-width: 790px) {
+    #section3 {
+        height: 1800px;
+    }
+    #taster {
+        width: 50%;
+        right: 100px; 
+    }
+    #mejl {
+        width: 70%;
+        position: relative;
+        right: 200px;
+    }
+
+}
+@media screen and (max-width: 750px) {
+    #slika {
+        margin-left: 90px;
+    }
+    #tekst, #biografija {
+        margin-left: 50px;
+    }
+    #futer {
+        top: 15800px;
+    }
+    #section5 {
+        top: 15800px;
+    }
+    #section5 .form-group {
+        width: 100%;
+        padding: 0px 20px;
+    }
+}
+@media screen and (max-width: 630px) {
+    #section2 {
+        height: 1700px;
+    }
+}
+@media screen and (max-width: 500px) {
+    body, html {
+        overflow-x: hidden;
+    }
+    #slika {
+        margin-left: 60px;
+    }
+    #section1 {
+        height: 1200px;
+    }
+    #section4 {
+        height: 450px;
+    }
+    #mejl {
+        width: 100%;
+        position: relative;
+        top: 0px;
+        margin-left: 320px;
+    }
+    #taster {
+        width: 100%;
+        position: relative;
+        top: 100px;
+        right: 125px;
+        margin-bottom: 50px;
+    }
+    #section5 #prvaKolona input, select {
+        width: 50%;
+        margin: 0px auto;
+    }
+    #prijaviSe {
+        width: 50%;
+    }
+    #pouzece, #kartica {
+        margin-left: 30px;
+    }
+    #drugaKolona .form-check {
+        margin-right: 30px;
+    }
+    #futer {
+        top: 15700px;
+    }
+    #section5 {
+        top: 15700px;
+        height: 800px;
+    }
+    #section5 form {
+        width: 100%;
+    }
+    #section5 .form-group {
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+    }
+    #prvaKolona {
+        width: 100%;
+    }
+    #prvaKolona label, #drugaKolona label {
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width: 430px) {
+    #section2 {
+        height: 2800px;
+    }
+    #slika {
+        margin-left: 40px;
+    }
+} 

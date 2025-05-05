@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "naziv": "FABER CASTELL set notes",
+        "cena": {
+            "cenaSaSajta": "2000 RSD",
+            "staraCena": "0"
+        },
+        "opis": "Telo olovke je napravljeno od brušene dragocene smole, dok su kapa i držač od hromiranog poliranog metala. Poseduje opružnu kopču od hromiranog poliranog metala. Opremljen je crnim dodatkom sa keramičkim vrhom, te se brzo suši. Postoji mogućnost dopune mastila. Agenta je A6 veličine.",
+        "src": "assets/img/pokloni/poklon1.png",
+        "kategorija": "Pokloni"
+    },
+    {
+        "id": 2,
+        "naziv": "MOLESKINE set za skiciranje",
+        "cena": {
+            "cenaSaSajta": "3200 RSD",
+            "staraCena": "0"
+        },
+        "opis": "Beležnica tvrdih korica, zaobljenih ivica. Elastičan lastiš i obeleživač stranica. Bezkiselinski papir, 165 grama/m2. Prošireni unutrašnji džep. Grafitne olovke 6B, 4B, 2B, HB I H",
+        "src": "assets/img/pokloni/poklon2.png",
+        "kategorija": "Pokloni"
+    },
+    {
+        "id": 3,
+        "naziv": "Notes MOLESKINE Passion Journal Wine",
+        "cena": {
+            "cenaSaSajta": "1250 RSD",
+            "staraCena": "0"
+        },
+        "opis": "Tematske uvodne stranice. Dizajniran da postane opipljiva i personalizovana arhiva, Wine Journal je Vaš vlastiti vodič za vino - zauzimajući ponosno mesto na polici pored vaših omiljenih knjiga o vinu. Dolazi u pametnoj, zaštitnoj kutiji, što ga čini divnim poklonom za ljubitelje vina.",
+        "src": "assets/img/pokloni/poklon4.png",
+        "kategorija": "Pokloni"
+    },
+    {
+        "id": 4,
+        "naziv": "Notes A5 MOLESKINE Classic Soft",
+        "cena": {
+            "cenaSaSajta": "3050 RSD",
+            "staraCena": "0"
+        },
+        "opis": "Notes A5 MOLESKINE Classic Soft, crni - linije TP. Tvrde korice, 400 stranica. Dimenzije: 13 x 21 cm",
+        "src": "assets/img/pokloni/poklon3.png",
+        "kategorija": "Pokloni"
+    }
+]

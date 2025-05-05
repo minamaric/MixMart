@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "naziv": "Šolja ROZE PRUGE u kutiji",
+        "cena": {
+            "cenaSaSajta": "756 RSD", 
+            "staraCena": "890 RSD"
+        },
+        "opis": "Velika šolja za čaj ili kafu napravljena od finog porcelana. Šolja dolazi zapakovana u ukrasnu kutiju, sličnog dezena kao i sama šolja, te je idealna i za poklon. Šolju možete koristiti u mikrotalasnoj pećnici i prati u mašini za pranje sudova. Kapacitet šolje je 360ml.",
+        "src": "assets/img/solje/solja1.png",
+        "kategorija": "Šolje"
+    },
+    {
+        "id": 2,
+        "naziv":"Šolja CRNE PRUGE u kutiji",
+        "cena": {
+            "cenaSaSajta": "756 RSD", 
+            "staraCena": "890 RSD"
+        },
+        "opis": "Velika šolja za čaj ili kafu napravljena od finog porcelana. Šolja dolazi zapakovana u ukrasnu kutiju, sličnog dezena kao i sama šolja, te je idealna i za poklon. Šolju možete koristiti u mikrotalasnoj pećnici i prati u mašini za pranje sudova. Kapacitet šolje je 360ml.",
+        "src": "assets/img/solje/solja2.png",
+        "kategorija": "Šolje"
+    },
+    {
+        "id": 3,
+        "naziv":"Šolja PAC-MAN",
+        "cena": {
+            "cenaSaSajta": "807 RSD",
+            "staraCena": "950 RSD"
+        },
+        "opis": "Šolja za čaj ili kafu napravljena od porcelana. Možete je koristiti u mikrotalasnoj pećnici i prati u mašini za pranje sudova. Kapacitet šolje je 250ml.",
+        "src": "assets/img/solje/solja3.png",
+        "kategorija": "Šolje"
+    },
+    {
+        "id": 4,
+        "naziv":"Šolja POKEMON",
+        "cena": {
+            "cenaSaSajta": "1274 RSD",
+            "staraCena": "1499 RSD" 
+        },
+        "opis": "Šolja sa dizajnom pokemona, zgodna za svakodnevnu upotrebu. Može se koristiti u mikrotalasnoj pećnici i prati u mašini za pranje sudova.",
+        "src": "assets/img/solje/solja4.png",
+        "kategorija": "Šolje"
+    },
+    {
+        "id": 5,
+        "naziv": "Keramička šolja SIVA SOVA",
+        "cena": {
+            "cenaSaSajta": "1019 RSD",
+            "staraCena": "1199 RSD"
+        },
+        "opis": "Keramička šolja, atraktivnog dizajna, u obliku sove. Šolja je predviđena za pranje u mašini za sudove i korišćenje u mikrotalasnoj. Kapacitet šolje je 400ml.",
+        "src": "assets/img/solje/solja5.png",
+        "kategorija": "Šolje"
+    },
+    {
+        "id": 6,
+        "naziv": "Šolja EUCALYPTUS XXL",
+        "cena": {
+            "cenaSaSajta": "2124 RSD",
+            "staraCena": "2499 RSD"
+        },
+        "opis": "Velika porcelanska šolja plave boje sa ilustracijom listova. Šolja dolazi u adekvatnoj poklon kutiji. Kapacitet šolje je 550ml. Dimenzije šolje 14,5x13x8,5cm. Šolju slobodno možete prati u mašini za sudove i koristiti u mikrotalasnoj.",
+        "src": "assets/img/solje/solja6.png",
+        "kategorija": "Šolje"
+    },
+    {
+        "id": 7,
+        "naziv": "Šolja GOLDEN GINGKO XXL",
+        "cena": {
+            "cenaSaSajta": "2124 RSD",
+            "staraCena": "2499 RSD"
+        },
+        "opis": "Velika porcelanska šolja sive boje sa ilustracijom listova. Šolja dolazi u adekvatnoj poklon kutiji. Kapacitet šolje je 550ml. Dimenzije šolje 14,5x13x8,5cm. Šolju slobodno možete prati u mašini za sudove i koristiti u mikrotalasnoj.",
+        "src": "assets/img/solje/solja7.png",
+        "kategorija": "Šolje"
+    },
+    {
+        "id": 8,
+        "naziv": "Velika porcelanska šolja LIŠĆE",
+        "cena": {
+            "cenaSaSajta": "1643 RSD",
+            "staraCena": "1933 RSD"
+        },
+        "opis": "Velika porcelanska šolja sa završnim mat efektom i ilustracijom u obliku konture lista. Šolja dolazi u adekvatnoj poklon kutiji sa identičnim ilustracijama. Kapacitet šolje je 350ml. Dimenzije 10x9cm. Preporučuje se ručno pranje.",
+        "src": "assets/img/solje/solja8.png",
+        "kategorija": "Šolje"
+    },
+    {
+        "id": 9,
+        "naziv": "Staklena čaša za piće LIST",
+        "cena": {
+            "cenaSaSajta": "1359 RSD",
+            "staraCena": "1599 RSD"
+        },
+        "opis": "Staklena čaša za piće sa duplim zidovima, dekorisana ilustracijom lista. Čaša je izrađena od borosilikatnog stakla koje je otporno na toplotu te je odličan izbor i za tople napitke poput čaja. U čašu staje čak 300ml vašeg omiljenog napitka.",
+        "src": "assets/img/solje/solja9.png",
+        "kategorija": "Šolje"
+    },
+    {
+        "id": 10,
+        "naziv": "Porcelanska šolja MUSIC LOVER",
+        "cena": {
+            "cenaSaSajta": "1487 RSD",
+            "staraCena": "1750 RSD"
+        },
+        "opis": "Velika porcelanska šolja sa natpisom 'Music lover'. Dolazi u poklon kutiji sa identičnim ilustracijama. Kapacitet šolje je 350ml. Dimenzije šolje su 10x9.8cm dok su dimenzije kutije 11.3x12.5x11.6 cm. Šolju slobodno možete koristiti u mašini za sudove i mikrotalasnoj.",
+        "src": "assets/img/solje/solja10.png",
+        "kategorija": "Šolje"
+    }
+]

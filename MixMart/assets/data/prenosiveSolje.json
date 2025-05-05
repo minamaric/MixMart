@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "naziv": "Staklena flaša EGRET ISLAND",
+        "cena": {
+            "cenaSaSajta": "1400 RSD",
+            "staraCena": "1650 RSD"
+        },
+        "opis": "Staklena flaša ukrašena motivima prirode. Poklopac sadrži i platnenu traku na vrhu za sigurnije nošenje flaše. Kapacitet flaše je 500ml. Izrađena je od finog, laganog i izdržljivog stakla. Visina flaše je 24cm, prečnik 6,5cm. Flašu slobodno možete prati u mašini za sudove.",
+        "src": "assets/img/solje/prenosive/flasa1.png",
+        "kategorija": "Prenosive šolje"
+    },
+    {
+        "id": 2,
+        "naziv": "Flaša za vodu ZELENA",
+        "cena": {
+            "cenaSaSajta": "1420 RSD",
+            "staraCena": "1680 RSD"
+        },
+        "opis": "Flaša za vodu od borosilikatnog stakla sa silikonskom rukavicom kapaciteta 600ml. Flaša poseduje drveni čvrstoprijanjajući poklopac i silikonsku rukavicu za lakše nošenje koja može da se skida. Nije predviđeno za pranje u mašini za sudove i korišćenje u mikrotalasnoj. Dimenzije 235 x 68mm.",
+        "src": "assets/img/solje/prenosive/flasa2.png",
+        "kategorija": "Prenosive šolje"
+    },
+    {
+        "id": 3,
+        "naziv": "BIOLOCO putna šolja TERRAZZO",
+        "cena": {
+            "cenaSaSajta": "1999 RSD",
+            "staraCena": ""
+        },
+        "opis": "Putna šolja dizajna iz Bioloco Office kolekcije napravljena od kombinacije nerđajućeg čelika i potpuno ekološki prihvatljivih materijala. Unutrašnjost šolje je sadrži dupli zid od nerđajućeg čelika tipa 304, koji omogućava održavanje toplote i hladnoće pića do 3 sata.",
+        "src": "assets/img/solje/prenosive/flasa3.png",
+        "kategorija": "Prenosive šolje"
+    },
+    {
+        "id": 4,
+        "naziv": "BIOLOCO putna šolja TAKE A SIP",
+        "cena": {
+            "cenaSaSajta": "1999 RSD",
+            "staraCena": ""
+        },
+        "opis": "Putna šolja dizajna iz Bioloco Office kolekcije napravljena od kombinacije nerđajućeg čelika i potpuno ekološki prihvatljivih materijala. Unutrašnjost šolje je sadrži dupli zid od nerđajućeg čelika tipa 304, koji omogućava održavanje toplote i hladnoće pića do 3 sata.",
+        "src": "assets/img/solje/prenosive/flasa4.png",
+        "kategorija": "Prenosive šolje"
+    },
+    {
+        "id": 5,
+        "naziv": "BIOLOCO putna šolja ORANGE LEAVES",
+        "cena": {
+            "cenaSaSajta": "1999 RSD",
+            "staraCena": ""
+        },
+        "opis": "Putna šolja napravljena od potpuno ekološki prihvatljivih materijala, veoma atraktivnog dizajna iz Bioloco Delux kolekcije. Predviđena je za pranje u mašini za sudove i bezbedno je koristiti je u mikrotalasnoj bez poklopca. Kapacitet šolje je 420ml.",
+        "src": "assets/img/solje/prenosive/flasa5.png",
+        "kategorija": "Prenosive šolje"
+    },
+    {
+        "id": 6,
+        "naziv": "BIOLOCO putna šolja ABSTRACT PATTERN",
+        "cena": {
+            "cenaSaSajta": "1999 RSD",
+            "staraCena": ""
+        },
+        "opis": "Putna šolja napravljena od potpuno ekološki prihvatljivih materijala, veoma atraktivnog dizajna iz Bioloco Delux kolekcije. Predviđena je za pranje u mašini za sudove i bezbedno je koristiti je u mikrotalasnoj bez poklopca. Kapacitet šolje je 420ml.",
+        "src": "assets/img/solje/prenosive/flasa6.png",
+        "kategorija": "Prenosive šolje"
+    }
+]

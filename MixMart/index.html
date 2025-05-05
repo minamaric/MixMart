@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="mailto:mina.maric.55.22@ict.edu.rs" />
+    <meta name="keywords" content="Knjižara, Sveske, Pernice, Šolje, Punjači" />
+    <meta name="description" content='Knjižara "MixMart", mesto gde možete pronaći najlepše, ali ujedno i najkorisnije poklone. Naravno, sve to uz raznovrsnu školsku opremu i mnoge praktične sitnice.' /> 
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" type="text/css"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="assets/img/ikonica-6.png" />
+    <title>Knjižara "MixMart"</title>
+</head>
+<body>
+    <header class="d-flex justify-content-around lign-items-center bg-light py-2" id="nav_header">
+        <a href="index.html"><img class="navbar-brand" href="index.html" src="assets/img/ikonica.png" id="nav-slika"></img></a>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light" id="meni">
+            <div class="container-fluid">
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0" id="meniispis">
+
+                </ul>
+              </div>
+            </div>
+          </nav>
+    </header>
+
+    <main>
+        <section id="section">
+            <div class="container-fluid">
+                <div class="row">
+                    <h1 class="text-center">Knjižara "MixMart"</h1>
+                </div>
+            </div>
+        </section>
+
+
+        <section id="section1">
+            <div class="container">
+                <h1 class="text-center mt-5">Nabavite najbolje!</h1>
+                <div class="row d-flex justify-content-around my-5 align-items-center" id="prviBlok">
+
+                </div>  
+            </div>
+        </section>
+
+
+        <section id="section2" class="my-5 bg-light">
+            <div class="container-fluid">
+                <div class="row d-flex justify-content-around my-5 align-items-center">
+                    <h1 class="text-center my-5 pb-3"> 8. MART - 30% POPUST </h1>
+                    <a href="kupovina.html" class="atag"><img src="assets/img/8mart.png" alt="8-mart-knjige" /></a>
+                    <div id="knjige-8mart" class="d-flex justify-content-around my-5 align-items-center"> 
+                        
+                    </div>   
+                </div>
+            </div>
+        </section>        
+
+
+        <section id="section3">
+            <div class="container">
+                <h1 class="text-center">POKLONI</h1>   
+                <div class="row d-flex justify-content-around align-items-center" id="pokloni">
+                    
+                </div>
+            </div>
+        </section>
+
+
+        <section id="section4">
+            <div class="container-fluid">
+                <h1 class="text-center my-5 pb-3">VESTI</h1>
+                <div class="row" id="vesti">
+                        <div id="inputDiv" class="col-6">
+                            <input class="borderClass" type="text" id="mejl" class="form-control" placeholder="   Vaš e-mail"/> 
+                        </div>
+                        <div class="col-6 text-center">
+                            <input type="button" value="Prijavi se" id="taster" onclick="validacijaMejl()"/>
+                        </div>
+                        <div id="cBox">
+                            <input type="checkbox"> Želim da primam obaveštenja o vestima 
+                        </div>
+                        <div id="spanDiv" class="my-5 text-center">
+                            <span class="my-4" id="span"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="row  d-flex justify-content-center align-items-center py-5">
+                <div class="col-xl-4 col-md-8 mb-5">
+                    <div id="find_us" class="my-2 px-5 text-center">
+                        <h4 class="text-light">PRONAĐITE NAS</h4>
+                        <p class="text-light">Telefon: +11 30 1246789</p>
+                        <p class="text-light">E-mail: m.mart@gmail.com</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-8 mb-5">
+                    <div id="linkovi" class="my-2 px-5 text-center">
+                        <h4 class="text-light">OSTALI LINKOVI</h4>
+                        <a href="sitemap.xml" target="_blank"><p>Sitemap</p></a>
+                        <a href="Dokumentacija.pdf"><p>Dokumentacija</p></a>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-8 mb-5">
+                    <div id="enjoy" class="my-2 px-5 text-center">
+                        <h4 class="text-light">UŽIVAJTE</h4>
+                        <p class="text-light"> S obzirom na naš širok izbor, sigurno ćete pronaći baš ono što ste poželeli. Uživajte u kupovini i kvalitetu proizvoda! </p>
+                    </div>
+                </div>
+                <p class="text-light text-center" id="copy"> MixMart &copy; 2025 | All rights reserved </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/jQuery/jquery-3.7.1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="assets/js/pocetna.js"></script>
+</body>
+</html>
